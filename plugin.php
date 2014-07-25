@@ -1,5 +1,4 @@
-custom-recent-posts-widget
-==========================
+<?php
 
 class WPSites_Recent_Posts extends WP_Widget {
 
